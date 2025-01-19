@@ -2,7 +2,7 @@ Rencana bikin content
   - buat content front end / video editing di social media
   - after effect dasar
   - html css dasar
-    - form html
+    - struktur html
   - content tiktok instagram
   - edits video yang bagus
   - pd depan camera
