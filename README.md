@@ -1,2 +1,2 @@
 # dony-resolusi
-Repository untuk menyimpan rencana kedepannya
+Repository untuk goalssss kedepannya
